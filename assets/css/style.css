@@ -1,0 +1,52 @@
+/* Layout */
+body{
+	background-color: rgb(157,149,234);
+}
+.wrap{
+	margin-top: 10px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+/* image */
+
+.img{
+	width: 100px;
+	height: 100px;
+}
+/* text */
+
+.color-title{
+	margin-top: 50px;
+}
+.social-media label{
+	margin-top: 20px;
+	font-size: 14px;
+	font-weight: bold;
+	color: rgb(48,33,177);
+	line-height: 10px;
+}
+
+/* icon */
+
+.social-media a{
+	color: rgb(48,33,177);
+}
+.social-media a:nth-child(1) {
+	margin:0px;
+}
+
+.social-media a:nth-child(2){
+	margin-left: 10px;
+}
+.social-media a:nth-child(3){
+	margin-left: 10px;
+}
+
+/* button */
+
+button {
+
+}
